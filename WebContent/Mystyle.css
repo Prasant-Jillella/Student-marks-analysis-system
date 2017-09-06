@@ -1,0 +1,166 @@
+@CHARSET "ISO-8859-1";
+.ihdiv
+{
+	background:url(images/login.png);
+	margin-left:0%;
+	margin-top:2%;
+	width:100%;
+	font-family:Comic Sans MS;
+	font-size:20px;
+	text-align:center;
+	height:150px;
+}
+.inloclass
+{
+	float:left;
+	margin-left:1%;
+	margin-top:-1.5%;
+	
+}
+.img
+{
+	margin-left:2%;
+	margin-top:-17%;
+}
+.img1
+{
+	margin-left:74%;
+	margin-top:-15%;
+}
+.img2
+{
+	float:left;
+	margin-left:1%;
+	margin-top:-1.5%;
+}
+.l
+{
+	text-align:center;
+}
+.ihdiv1
+{
+	background:url(images/login.png);
+	margin-left:0%;
+	margin-top:2%;
+	width:100%;
+	font-family:Comic Sans MS;
+	font-size:20px;
+	text-align:center;
+	height:150px;
+}
+.register
+{
+	background:url(images/login.png);
+	margin-left:5%;
+	margin-top:5%;
+	width:36%;
+	font-size: 20px;
+	height:340px;
+	align:center;
+	
+}
+.registere
+{
+	background:url(images/login.png);
+	margin-left:30%;
+	margin-top:5%;
+	width:36%;
+	font-size: 20px;
+	height:340px;
+	align:center;
+	
+}
+.register1
+{
+	background:url(images/login.png);
+	position:relative;
+	margin-left:60%;
+	margin-top:-23%;
+	font-size: 20px;
+	width:36%;
+	height:340px;
+	align:center;
+	
+}
+.profile
+{
+	background:url(images/login.png);
+	position:relative;
+	margin-left:30%;
+	margin-top:3%;
+	font-size: 20px;
+	width:36%;
+	height:340px;
+	align:center;
+	
+}
+.namee
+{
+	margin-left:30%;
+	margin-top:15%;
+	width:58%;
+	height:20px;
+	text-align:center;
+}
+.legendg
+{
+	  margin-left:30%;
+	  position: relative;
+	  width: 40%;
+	  display: block;
+	  background: #FF7052;
+	  padding: 15px;
+	  color: #fff;
+	  font-size: 15px;
+}
+.legend1
+{
+	  position: relative;
+	  width: 70%;
+	  display: block;
+	  background: #FF7052;
+	  padding: 15px;
+	  color: #fff;
+	  font-size: 15px;
+}
+.graphs
+{
+	margin-top:10%;
+	text-align:center;
+}
+.ana
+{
+	background:url(images/login.png);
+	margin-top:10%;
+	text-align:center;
+}
+.profileb
+{
+	margin-left:-13%;
+}
+.inlogin2
+{
+	margin-left:-10%;
+}
+.ilabel
+{
+	margin-left:-10%;
+	display:inline-block;
+	font-size: 25px;
+}
+.ilabe2
+{
+	display:inline-block;
+	margin-left:20%;
+	font-size: 25px;
+}
+.ibdiv
+{
+	background:url(images/login.png);
+	margin-left:34%;
+	margin-top:10%;
+	width:30%;
+	text-align:center;
+	font-size: 20px;
+	height:260px;
+}
